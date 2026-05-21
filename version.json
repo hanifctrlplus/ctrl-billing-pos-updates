@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "releaseDate": "2026-05-21",
+  "changelog": [
+    "Initial release of Ctrl Billing App",
+    "Bulk Excel upload for items",
+    "Theme customization support",
+    "Mobile billing configuration"
+  ],
+  "downloadUrl": "https://github.com/hanifctrlplus/ctrl-billing-pos-updates/releases/latest"
+}
