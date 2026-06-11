@@ -1,13 +1,10 @@
 {
-  "version": "1.1.0",
-  "releaseDate": "2026-06-01",
+  "version": "1.1.1",
+  "releaseDate": "2026-06-11",
   "downloadUrl": "https://github.com/hanifctrlplus/ctrl-billing-pos-updates/releases/download/v1.1.0/Ctrl.Billing.App.Setup.1.1.0.exe",
   "changelog": [
-    "HSN / SAC code support added to item management and billing",
-    "Slips History moved under the Reports menu (alongside Login & Stock History)",
-    "PC Share approval workflow fixed — Main PC now receives connection requests",
-    "PC Share: auto-detect connection by code now works correctly",
-    "PC Share: rejection shown immediately on Secondary PC with clear message",
-    "Mobile billing app navigation updated"
+    "PC Share removed from Settings menu — Secondary PC App now handles multi-PC connections",
+    "Secondary Client App introduced for dedicated secondary billing terminals",
+    "UI cleanup and stability improvements"
   ]
 }
