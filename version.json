@@ -1,11 +1,8 @@
 {
-  "version": "1.1.1",
-  "releaseDate": "2026-06-11",
-  "downloadUrl": "https://github.com/hanifctrlplus/ctrl-billing-pos-updates/releases/download/v1.1.1/Ctrl.Billing.App.Setup.1.1.1.exe",
-  "changelog": [
-    "PC Share removed from Settings menu - Secondary PC App now handles multi-PC connections",
-    "Fixed update check error (no more 404 on latest.yml)",
-    "Secondary Client App introduced for dedicated secondary billing terminals",
-    "UI cleanup and stability improvements"
-  ]
+    "releaseDate":  "2026-06-11",
+    "changelog":  [
+                      "Tab and section renamed from \u0027Connect Mobile App\u0027 to \u0027Configure Devices\u0027 in Mobile Configuration settings."
+                  ],
+    "version":  "1.1.2",
+    "downloadUrl":  "https://github.com/hanifctrlplus/ctrl-billing-pos-updates/releases/download/v1.1.2/Ctrl.Billing.App.Setup.1.1.2.exe"
 }
